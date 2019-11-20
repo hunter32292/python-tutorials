@@ -1,4 +1,4 @@
-# Python CIHS Teaching Sessions
+# Python Teaching Sessions
 
 ## Who is this for?
 
